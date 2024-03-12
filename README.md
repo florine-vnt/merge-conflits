@@ -1,3 +1,4 @@
+REMOTE
 # merge-conflits
 
 ligne 1 
